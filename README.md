@@ -1,6 +1,6 @@
 # Robotics-in-ROS
-Robotic Projects in ROS
-these are assignments from columbia robotics course.
+
+These are assignments from columbia robotics course.
 
 Project1: Publish and Ssubscribe Messages in ROS
 
