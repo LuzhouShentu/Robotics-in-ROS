@@ -1,0 +1,6 @@
+<launch>
+
+  <node pkg="assignment0" type="adder.py" name="adder" output="screen" />
+  <node pkg="assignment0" type="generator.py" name="generator" output="screen" />
+
+</launch>
